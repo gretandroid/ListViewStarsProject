@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TPAndroid - ListView Personalisée 05-04-2022</string>
+
+    <string-array name="movies">
+        <item>Avengers : Endgame</item>
+        <item>Avatar</item>
+        <item>Titanic</item>
+        <item>Star Wars Episode 7 : Le réveil de la force</item>
+        <item>Avengers : Infinity War</item>
+        <item>Jurassic World</item>
+        <item>Le Roi Lion</item>
+        <item>Avengers</item>
+        <item>Fast and Furious 7</item>
+        <item>La Reine des Neiges</item>
+        <item>Black Panther</item>
+        <item>Harry Potter et les Reliques de la Mort</item>
+        <item>Star Wars Episode 8</item>
+        <item>La Belle et la Bète</item>
+        <item>Avengers 2 : La guerre d\'Ultron</item>
+    </string-array>
+</resources>
